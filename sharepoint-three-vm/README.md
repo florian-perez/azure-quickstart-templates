@@ -11,4 +11,4 @@ Click the button below to deploy
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-Notes: Sharepoint farm name must not contain spaces.
+Notes: Sharepoint farm name must not contain spaces !!

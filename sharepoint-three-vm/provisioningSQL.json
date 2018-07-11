@@ -77,14 +77,14 @@
               "name": "[concat(parameters('sqlVMName'),'_DataDisk1')]",
               "createOption": "Empty",
               "caching": "None",
-              "diskSizeGB": 1000,
+              "diskSizeGB": 100,
               "lun": 0
             },
             {
               "name": "[concat(parameters('sqlVMName'),'_LogDisk1')]",
               "createOption": "Empty",
               "caching": "None",
-              "diskSizeGB": 1000,
+              "diskSizeGB": 100,
               "lun": 1
             }
           ]
